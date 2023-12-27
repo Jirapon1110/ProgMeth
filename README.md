@@ -1,2 +1,1 @@
-# ProgMeth
-Progmeth - Final Project
+# final_project
